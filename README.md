@@ -1,6 +1,7 @@
 # Grocery Sales Dashboard Using Google Looker Studio
 Contains of Category of Product, Product Name, Sales Name, and Customer
 The purpose of this project is to display sales report and their performance.
+
 Link Dashboard : https://lookerstudio.google.com/reporting/3a0e8b8e-5e1c-4d32-b9b7-87028d42b0a0
 
 ![image](https://github.com/user-attachments/assets/c0af7827-577a-4cb0-8c72-29aa86bec4f8)
