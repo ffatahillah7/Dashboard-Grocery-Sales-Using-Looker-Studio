@@ -13,6 +13,7 @@ Link Dashboard : https://lookerstudio.google.com/reporting/3a0e8b8e-5e1c-4d32-b9
 3.  Sales map
 4.  Data Table for Sales Category, Sales Name, Product Name and Customer
 5.  Filter Control for periode time, category, sales name, customer, product name
+6.  The data source is from google sheet with 15 minutes update automatically.
 
 
 
